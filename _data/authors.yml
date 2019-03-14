@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # You can change `author1` to your shortname.
 author1:
-  name:              Adam Lopez
-  email:             alopez@inf.ed.ac.uk
+  name:              Steve Wang
+  email:             steve.wang@zju.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -17,7 +17,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:             alopez@inf.ed.ac.uk
+    email:             steve.wang@zju.edu.cn
     github:            alopez
     twitter:           there_are_two_
     # linkedin:        <firstname-lastname-string>
