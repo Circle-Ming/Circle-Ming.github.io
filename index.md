@@ -6,7 +6,7 @@ cover: false
 
   I am a undergraduate research student(_Junior now_) in the Artificial Intelligence 
 Institute in the [School of Computer Science and Technology](http://www.cs.zju.edu.cn/) at 
-the [Zhejiang University](http://www.zju.edu.cn/). I am advised by Professor [Siliang Tang](https://person.zju.edu.cn/siliang) in ZJUAI/[DCD](http://www.dcd.zju.edu.cn/). 
+[Zhejiang University](http://www.zju.edu.cn/). I am advised by Professor [Siliang Tang](https://person.zju.edu.cn/siliang) in ZJUAI/[DCD](http://www.dcd.zju.edu.cn/). 
 
   My research interests lie in Natural Language Processing and Applied Machine 
 Learning. I am broadly interested in connecting natural language with real 
