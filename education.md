@@ -21,8 +21,6 @@ order:  2
 ![My best ZJU](assets/img/zju.png) Aug. 2016 - Present, Department of Computer Science, **_Zhejiang University_**
 
 ### Core Courses:
-* TOC
-{:toc}
 
 #### Computer: 
 
