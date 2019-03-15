@@ -18,4 +18,4 @@ order:  2
 > ---Gian-Carlo Rota
 
 # Undergraduate
-[My best ZJU](assets/img/zju.png)
+![My best ZJU](assets/img/zju.png)
