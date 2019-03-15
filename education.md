@@ -23,5 +23,5 @@ order:  2
 
 ### Core Courses:
 
-> _For details of core courses I attended, you can find them in my [CV](cv.md)_
+> _For details of core courses I attended, you can find them in my [CV](cv.md)._
 
