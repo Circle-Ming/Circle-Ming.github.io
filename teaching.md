@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Teaching
+title:  Education
 cover:  false
 menu:   true
 order:  2
