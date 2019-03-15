@@ -10,11 +10,13 @@ order:  1
 >
 > ---Blaise Pascal
 
-<ul>
-{% for paper in site.data.papers.papers %}
-  <li>
-  {% include paper.html paper=paper %}
-  </li>
-{% endfor %}
-</ul>
+I really wish I can have a few papers in this page showing my ability 
+of research. But unfortunately, I do not have one yet. 
+
+# Good News!!!
+I am now working in the area of _named entity recognition_ using the 
+method of meta-learning. And I believe I can make it.
+
+# Research Experience
+
 
