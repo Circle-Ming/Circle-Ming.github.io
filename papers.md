@@ -11,7 +11,8 @@ order:  1
 > ---Blaise Pascal
 
 I really wish I can have a few papers in this page showing my ability 
-of research. But unfortunately, I do not have one yet. 
+of research. But unfortunately, I do not have one yet. But I think I 
+can have some to fill this page. 
 
 # Good News!!!
 I am now working in the area of _named entity recognition_ using the 
