@@ -14,11 +14,11 @@ I really wish I can have a few papers in this page showing my ability
 of research. But unfortunately, I do not have one yet. But I think I 
 can have some to fill this page. 
 
-# Good News!!!
+## Good News!!!
 I am now working in the area of _named entity recognition_ using the 
 method of _meta-learning_. And I believe I can make it.
 
 
-> _For more details of my research experience, you can find them in my [CV](cv.md)_
+> _For more details of my research experience, you can find them in my [CV](cv.md)._
 
 
