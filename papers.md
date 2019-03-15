@@ -18,6 +18,6 @@ I am now working in the area of _named entity recognition_ using the
 method of _meta-learning_. And I believe I can make it.
 
 
-> _For more details of my research, you can find them in my [CV](cv.md)_
+> _For more details of my research experience, you can find them in my [CV](cv.md)_
 
 
