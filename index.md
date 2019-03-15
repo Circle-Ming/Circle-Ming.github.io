@@ -21,5 +21,7 @@ junior year, I joined the school's natural language research group and began to
 accumulate basic knowledge about NLP and learn the solutions using the machine learning methods. 
 And I also slowly confirm NLP to be the research field I am willing to fight for.
 
+> _For more details of mine, you can find them in my [CV](cv.md)._
+
 ## News
 
