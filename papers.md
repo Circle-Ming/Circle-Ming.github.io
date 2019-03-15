@@ -15,8 +15,9 @@ of research. But unfortunately, I do not have one yet.
 
 # Good News!!!
 I am now working in the area of _named entity recognition_ using the 
-method of meta-learning. And I believe I can make it.
+method of _meta-learning_. And I believe I can make it.
 
-# Research Experience
+
+> _For more details of my research, you can find them in my [CV](cv.md)_
 
 
