@@ -20,6 +20,7 @@ order:  2
 ## Undergraduate
 ![My best ZJU](assets/img/zju.png) Aug. 2016 - Present, Department of Computer Science, **_Zhejiang University_**
 
+> _Hope to experience more different life through graduate research._
 
 ### Core Courses:
 
