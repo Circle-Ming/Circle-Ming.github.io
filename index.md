@@ -14,7 +14,7 @@ world scenarios, and using them to guide natural language understanding.
 
 Before confirming my research interest in the field of natural language processing, 
 I went to [Oracle](https://www.oracle.com/cn/index.html) and [a startup company](https://www.eigentech.ai/en/) for internships in software development. 
-When working in these companies that have given me a lot of experience, I happened to be 
+When working in these companies that have given me lots of experience, I happened to be 
 involved in the group meeting of the Natural Language Processing Algorithm Group 
 and this also opened the door of interests in this field. At the beginning of my 
 junior year, I joined the school's natural language research group to accumulate 
