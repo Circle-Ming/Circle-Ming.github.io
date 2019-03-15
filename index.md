@@ -13,7 +13,7 @@ Learning. I am broadly interested in connecting natural language with real
 world scenarios, and using them to guide natural language understanding.
 
 Before confirming my research interest in the field of natural language processing, 
-I went to Oracle and a startup company for internships insoftware development. 
+I went to [Oracle](https://www.oracle.com/cn/index.html) and [a startup company](https://www.eigentech.ai/en/) for internships insoftware development. 
 When working in a company that has given me a lot of experience, I happened to be 
 involved in the group meeting of the Natural Language Processing Algorithm Group 
 and this also opened the door to interest in this field. At the beginning of my 
