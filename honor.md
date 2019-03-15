@@ -7,7 +7,6 @@ order:  4
 ---
 
 * TOC
-{:toc}
 
 #### _2018, National Innovation Research Award (Highest honor for undergraduate research training)_
 
