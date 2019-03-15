@@ -20,42 +20,8 @@ order:  2
 ## Undergraduate
 ![My best ZJU](assets/img/zju.png) Aug. 2016 - Present, Department of Computer Science, **_Zhejiang University_**
 
+
 ### Core Courses:
 
-#### Computer: 
+> _For details of core courses I attended, you can find them in my [CV](cv.md)_
 
-#####C/Python/Java Language Programming
-
-#####Discrete Mathematics and its Application
-
-#####Data Structure Basis, Digital Logic Design
-
-#####Object-oriented Programming
-
-#####Advanced Data Structure and Algorithm Analysis
-
-#####Database System
-
-#####Operating System
-
-#####Machine Learning
-
-#####Natural language processing
-
-####Mathematics: 
-
-#####Calculus
-
-#####Linear Algebra
-
-#####Mathematical Statistics
-
-#####Probability Theory
-
-#####Ordinary Differential Equations
-
-#####Complex Variable Functions and Laplace Transform
-
-#####Partial Differential Equations
-
-#####Computer Simulation (Monte Carlo method, etc.) 
