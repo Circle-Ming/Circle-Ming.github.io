@@ -15,8 +15,7 @@ of research. But unfortunately, I do not have one yet. But I think I
 can have some to fill this page. 
 
 ## Good News!!!
-I am now working in the area of _named entity recognition_ using the 
-method of _meta-learning_. And I believe I can make it.
+I am now working in the area of _Multilingual Parsing from Raw Text to Universal Dependencies_ and _Question Answering in Context on QuAC_. And I believe I can make some progress.
 
 
 > _For more details of my research experience, you can find them in my [CV](cv.md)._

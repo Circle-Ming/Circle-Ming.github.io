@@ -9,10 +9,14 @@ Institute in the [School of Computer Science and Technology](http://www.cs.zju.e
 [Zhejiang University](http://www.zju.edu.cn/). I am advised by Professor [Siliang Tang](https://person.zju.edu.cn/siliang) in ZJUAI/[DCD](http://www.dcd.zju.edu.cn/). 
 
   My research interests lie in Natural Language Processing and Applied Machine 
-Learning. I am broadly interested in connecting natural language with real 
-world scenarios, and using them to guide natural language understanding.
+Learning. I am so interested in Natural Language Understand and my dream of research 
+is to build computers that can intelligently process, understand, and generate human 
+language material. So I hope that the general area of my research is robust but 
+linguistically sophisticated natural language understanding, and opportunities to use 
+it in real-world domains. And my current topics include Universal Dependency Parsing 
+and QA in Context.
 
-Before confirming my research interest in the field of natural language processing, 
+  Before confirming my research interest in the field of natural language processing, 
 I went to [Oracle](https://www.oracle.com/cn/index.html) and [a startup company](https://www.eigentech.ai/en/) for internships in software development. 
 When working in these companies that have given me lots of experience, I happened to be 
 involved in the group meeting of the Natural Language Processing Algorithm Group 

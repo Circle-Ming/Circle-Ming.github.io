@@ -6,6 +6,8 @@ menu:   true
 order:  4
 ---
 
+#### _2019 MCM/ICM Meritorious Winner_
+
 #### _2018, National Innovation Research Award (Highest honor for undergraduate research training)_
 
 #### _2017, Zhejiang Provincial Government Scholarship_
