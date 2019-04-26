@@ -21,7 +21,7 @@ When working in these companies that have given me lots of experience, I happene
 involved in the group meeting of the Natural Language Processing Algorithm Group 
 and this also opened my door of interests in this field. At the beginning of my 
 junior year, I joined the ZJU's natural language research group and began to 
-accumulate basic knowledge about NLP and learn the solutions using the machine learning methods. 
+accumulate basic knowledge about NLP and learned solutions using the machine learning algorithms. 
 And I also slowly confirm NLP to be the research field I am willing to fight for.
 
 > _For more details of mine, you can find them in my [CV](cv.md)._
