@@ -12,8 +12,8 @@ Institute in the [School of Computer Science and Technology](http://www.cs.zju.e
 Learning. I am so interested in **Natural Language Understand** and my dream of research 
 is to build computers that can intelligently process, understand, and generate human 
 language material. So I hope that the general area of my research is robust but 
-linguistically sophisticated natural language understanding, and opportunities to use it in real-world domains. And my current topics include **Universal Dependency Parsing** 
-and **QA in Context**.
+linguistically sophisticated natural language understanding, and opportunities to use it in real-world domains. And my current topics include **[Universal Dependency Parsing](http://universaldependencies.org/conll18/)** 
+and **[FEVER](http://fever.ai/)**.
 
   Before confirming my research interest in the field of natural language processing, 
 I went to [Oracle](https://www.oracle.com/cn/index.html) and [a startup company](https://www.eigentech.ai/en/) for internships in software development. 
