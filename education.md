@@ -28,4 +28,4 @@ order:  2
 
 ### Visiting Student:
 
-![My best SUTD](assets/img/SUTD.png =100*100) Aug. 2019 - Jan. 2020, Information Systems Technology and Design, **_Singapore University of Technology and Design_**
+![My best SUTD](assets/img/SUTD.png){:height="50%" width="50%"} Aug. 2019 - Jan. 2020, Information Systems Technology and Design, **_Singapore University of Technology and Design_**
