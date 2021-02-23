@@ -18,14 +18,12 @@ order:  2
 > ---Gian-Carlo Rota
 
 ## Undergraduate
-
 ![My best ZJU](assets/img/zju.png) Aug. 2016 - Present, Department of Computer Science, **_Zhejiang University_**
 
 ### Core Courses:
-
 > _For details of core courses I attended, you can find them in my [CV](cv.md)._
+
 > _Hope to experience more different life through graduate research._
 
 ### Visiting Student:
-
-![My best SUTD](assets/img/SUTD.png){:height="50%" width="50%"} Aug. 2019 - Jan. 2020, Information Systems Technology and Design, **_Singapore University of Technology and Design_**
+![My best SUTD](assets/img/SUTD.png){:height="40%" width="40%"} Aug. 2019 - Jan. 2020, Information Systems Technology and Design, **_Singapore University of Technology and Design_**
