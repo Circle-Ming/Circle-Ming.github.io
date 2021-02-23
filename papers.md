@@ -10,12 +10,10 @@ order:  1
 >
 > ---Blaise Pascal
 
-I really wish I can have a few papers in this page showing my ability 
-of research. But unfortunately, I do not have one yet. But I think I 
-can have some to fill this page. 
+I now have one paper as co-first author under review of **ACL2021**. 
 
 ## Good News!!!
-I am now working in the area of _Multilingual Parsing from Raw Text to Universal Dependencies_ and _Fact Extraction and Verification_. And I believe I can make some progress.
+I am now working in the area of _Knowledge Distillation_. And I believe I can make some more progress.
 
 
 > _For more details of my research experience, you can find them in my [CV](cv.md)._
