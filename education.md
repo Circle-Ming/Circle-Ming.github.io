@@ -23,8 +23,6 @@ order:  2
 ### Core Courses:
 > _For details of core courses I attended, you can find them in my [CV](cv.md)._
 
-
-
 ### Visiting Student:
 ![My best SUTD](assets/img/SUTD.png){:height="40%" width="40%"} 
 
