@@ -7,4 +7,4 @@ order:  6
 ---
 
 Here is my [CV](/assets/img/CV.pdf)
-(last updated on May 5th, 2019).
+(last updated on February 24th, 2021).
