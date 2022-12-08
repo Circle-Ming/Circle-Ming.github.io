@@ -16,7 +16,7 @@ sophisticated natural language understanding, and opportunities to use it in rea
 domains. And my current topics include **Structure Prediction** and **Latent-structures guided NLP**.
 
 Before confirming my research interest in the field of natural language processing, 
-I went to [Oracle](https://www.oracle.com/cn/index.html) and [a startup company](https://www.eigentech.ai/en/) for internships in software development and natural language processing algorithm engineering. Now I will also join Alibaba DAMO Academy as a NLP Research Intern.
+I went to [Oracle](https://www.oracle.com/cn/index.html) and [a startup company](https://www.eigentech.ai/en/) for internships in software development and natural language processing algorithm engineering. Now I will also join [Alibaba DAMO Academy](https://damo.alibaba.com/) as a NLP Research Intern.
 
 > _For more details of mine, you can find them in my [CV](cv.md)._
 
