@@ -13,7 +13,7 @@ I am so interested in **Natural Language Understand** and my dream of research i
 build computers that can intelligently process, understand, and generate human language
 material. So I hope that the general area of my research is robust but linguistically 
 sophisticated natural language understanding, and opportunities to use it in real-world
-domains. And my current topics include **Structure Prediction** and **Latent-structures guided NLP**.
+domains. And my current topics include **Structure Prediction** and **Latent-structures Guided NLP**.
 
 Before confirming my research interest in the field of natural language processing, 
 I went to [Oracle](https://www.oracle.com/cn/index.html) and [a startup company](https://www.eigentech.ai/en/) for internships in software development and natural language processing algorithm engineering. Now I will also join [Alibaba DAMO Academy](https://damo.alibaba.com/) as a NLP Research Intern.
