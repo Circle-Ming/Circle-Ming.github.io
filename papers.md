@@ -10,12 +10,12 @@ order:  1
 >
 > ---Blaise Pascal
 
-I now have one paper as co-first author under review of **ACL2021**. 
+I now have one paper as co-first author in **ACL2021** and also two draft papers.
 
 ## Good News!!!
-I am now working in the area of _Knowledge Distillation_. And I believe I can make some more progress.
+I am now working in the area of _NLP with latent structures_. And I believe I can make some more progress.
 
 
-> _For more details of my research experience, you can find them in my [CV](cv.md)._
+> _For more details of my research experience and also my papers, you can find them (through the links) in my [CV](cv.md)._
 
 
