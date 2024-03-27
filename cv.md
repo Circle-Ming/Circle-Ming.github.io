@@ -6,5 +6,4 @@ menu:   true
 order:  6
 ---
 
-Here is my [CV](/assets/img/CV.pdf)
 (last updated on October, 2022).
