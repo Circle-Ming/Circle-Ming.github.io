@@ -35,3 +35,4 @@ NAACL 2024 [\[paper\]](https://arxiv.org/abs/2310.10962)
 Guoshun Nan\*, **Huiming Wang\***, Wei Lu.\
 Findings of ACL 2021 [\[paper\]](assets/img/ACL2021_SemiRE.pdf)
 
+(\*: equal contribution.)
