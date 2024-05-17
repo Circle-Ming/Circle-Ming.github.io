@@ -18,7 +18,7 @@ Preprint [\[paper\]](https://arxiv.org/pdf/2402.18913.pdf)
 
 - **<ins>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</ins>**\
 Zhaodonghui Li, Haitao Yuan, **Huiming Wang**, Lidong Bing, Gao Cong.\
-Preprint [\[paper\]](assets/img/SIGMOD2024.pdf)
+Preprint [\[paper\]](https://arxiv.org/abs/2404.12872)
 
 
 📝 Publications
