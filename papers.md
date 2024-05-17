@@ -23,14 +23,13 @@ Preprint [\[paper\]](assets/img/SIGMOD2024.pdf)
 
 📝 Publications
 ======
-
 - **<ins>Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition</ins>**\
 **Huiming Wang**, Liying Cheng, Wenxuan Zhang, De Wen Soh, Lidong Bing.\
 ACL 2024 [\[paper\]](assets/img/Order_Agnostic_Data_Augmentation_for_Few_Shot_Named_Entity_Recognition.pdf)
 
 - **<ins>Large Language Models can Contrastively Refine their Generation for Better Sentence Representation Learning</ins>**\
 **Huiming Wang**, Zhaodonghui Li, Liying Cheng, De Wen Soh, Lidong Bing.\
-NAACL 2024 [\[paper\]](assets/img/NAACL2024_Large_Language_Models_can_Contrastively_Refine_their_Generation_for_Better_Sentence_Representation_Learning.pdf)
+NAACL 2024 [\[paper\]](https://arxiv.org/abs/2310.10962)
 
 - **<ins>Multi-Level Contrastive Distillation for Semi-Supervised Relation Extraction</ins>**\
 **Huiming Wang**, Guoshun Nan\*, Wei Lu.\
