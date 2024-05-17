@@ -12,11 +12,6 @@ order:  1
 
 📝 Preprints
 ======
-
-- **<ins>Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition</ins>**\
-**Huiming Wang**, Liying Cheng, Wenxuan Zhang, De Wen Soh, Lidong Bing.\
-Preprint [\[paper\]](assets/img/Order_Agnostic_Data_Augmentation_for_Few_Shot_Named_Entity_Recognition.pdf)
-
 - **<ins>AdaMergeX: Cross-Lingual Transfer with Large Language Models via Adaptive Adapter Merging</ins>**\
 Yiran Zhao, Wenxuan Zhang, **Huiming Wang**, Kenji Kawaguchi, Lidong Bing.\
 Preprint [\[paper\]](https://arxiv.org/pdf/2402.18913.pdf)
@@ -28,6 +23,11 @@ Preprint [\[paper\]](assets/img/SIGMOD2024.pdf)
 
 📝 Publications
 ======
+
+- **<ins>Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition</ins>**\
+**Huiming Wang**, Liying Cheng, Wenxuan Zhang, De Wen Soh, Lidong Bing.\
+ACL 2024 [\[paper\]](assets/img/Order_Agnostic_Data_Augmentation_for_Few_Shot_Named_Entity_Recognition.pdf)
+
 - **<ins>Large Language Models can Contrastively Refine their Generation for Better Sentence Representation Learning</ins>**\
 **Huiming Wang**, Zhaodonghui Li, Liying Cheng, De Wen Soh, Lidong Bing.\
 NAACL 2024 [\[paper\]](assets/img/NAACL2024_Large_Language_Models_can_Contrastively_Refine_their_Generation_for_Better_Sentence_Representation_Learning.pdf)
