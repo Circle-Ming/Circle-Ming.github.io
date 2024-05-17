@@ -32,6 +32,6 @@ ACL 2024 [\[paper\]](assets/img/Order_Agnostic_Data_Augmentation_for_Few_Shot_Na
 NAACL 2024 [\[paper\]](https://arxiv.org/abs/2310.10962)
 
 - **<ins>Multi-Level Contrastive Distillation for Semi-Supervised Relation Extraction</ins>**\
-**Huiming Wang**, Guoshun Nan\*, Wei Lu.\
+Guoshun Nan\*, **Huiming Wang\***, Wei Lu.\
 Findings of ACL 2021 [\[paper\]](assets/img/ACL2021_SemiRE.pdf)
 
