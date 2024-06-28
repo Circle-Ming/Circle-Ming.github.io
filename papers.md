@@ -34,11 +34,11 @@ ACL 2024 [\[paper\]](assets/img/ACL2024_Order_Agnostic_Data_Augmentation_for_Few
 NAACL 2024 [\[paper\]](https://arxiv.org/abs/2310.10962)
 
 - **<ins>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</ins>**\
-Zhaodonghui Li, **Huiming Wang**, Haitao Yuan, Gao Cong, Lidong Bing.\
+Zhaodonghui Li\*, **Huiming Wang\***, Haitao Yuan, Gao Cong, Lidong Bing.\
 VLDB 2024 [\[paper\]](assets/img/2024VLDB_LLM-R2.pdf)
 
 - **<ins>Multi-Level Contrastive Distillation for Semi-Supervised Relation Extraction</ins>**\
-**Huiming Wang\***, Guoshun Nan\*, Wei Lu.\
+**Huiming Wang**, Guoshun Nan, Wei Lu.\
 Findings of ACL 2021 [\[paper\]](assets/img/ACL2021_SemiRE.pdf)
 
 (\*: equal contribution.)
