@@ -16,23 +16,23 @@ order:  1
 Yiran Zhao, Wenxuan Zhang, **Huiming Wang**, Kenji Kawaguchi, Lidong Bing.\
 Preprint [\[paper\]](https://arxiv.org/pdf/2402.18913.pdf)
 
-- **<ins>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</ins>**\
-Zhaodonghui Li, Haitao Yuan, **Huiming Wang**, Lidong Bing, Gao Cong.\
-Preprint [\[paper\]](https://arxiv.org/abs/2404.12872)
-
 
 📝 Publications
 ======
 - **<ins>Order-Agnostic Data Augmentation for Few-Shot Named Entity Recognition</ins>**\
 **Huiming Wang**, Liying Cheng, Wenxuan Zhang, De Wen Soh, Lidong Bing.\
-ACL 2024 [\[paper\]](assets/img/Order_Agnostic_Data_Augmentation_for_Few_Shot_Named_Entity_Recognition.pdf)
+ACL 2024 [\[paper\]](assets/img/ACL2024_Order_Agnostic_Data_Augmentation_for_Few_Shot_Named_Entity_Recognition.pdf)
 
 - **<ins>Large Language Models can Contrastively Refine their Generation for Better Sentence Representation Learning</ins>**\
 **Huiming Wang**, Zhaodonghui Li, Liying Cheng, De Wen Soh, Lidong Bing.\
 NAACL 2024 [\[paper\]](https://arxiv.org/abs/2310.10962)
 
+- **<ins>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</ins>**\
+Zhaodonghui Li, **Huiming Wang**, Haitao Yuan, Lidong Bing, Gao Cong.\
+VLDB [\[paper\]](assets/img/2024VLDB_LLM-R2.pdf)
+
 - **<ins>Multi-Level Contrastive Distillation for Semi-Supervised Relation Extraction</ins>**\
-Guoshun Nan\*, **Huiming Wang\***, Wei Lu.\
+**Huiming Wang\***, Guoshun Nan\*, Wei Lu.\
 Findings of ACL 2021 [\[paper\]](assets/img/ACL2021_SemiRE.pdf)
 
 (\*: equal contribution.)
