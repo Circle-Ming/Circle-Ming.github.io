@@ -17,7 +17,7 @@ Yiran Zhao, Wenxuan Zhang, **Huiming Wang**, Kenji Kawaguchi, Lidong Bing.\
 Preprint [\[paper\]](https://arxiv.org/pdf/2402.18913.pdf)
 
 - **<ins>Your Hallucinations can Actually Help: Towards Robust Machine Unlearning with In-Context Hallucinations</ins>**\
-**Huiming Wang**, Zhaodonghui Li, De Wen Soh, Lidong Bing.\
+**Huiming Wang**, Zhaodonghui Li, De Wen Soh, Gao Cong, Lidong Bing.\
 Preprint [\[paper\]](assets/img/Unlearning_EMNLP_2024.pdf)
 
 
@@ -31,7 +31,7 @@ ACL 2024 [\[paper\]](assets/img/ACL2024_Order_Agnostic_Data_Augmentation_for_Few
 
 - **<ins>Large Language Models can Contrastively Refine their Generation for Better Sentence Representation Learning</ins>**\
 **Huiming Wang**, Zhaodonghui Li, Liying Cheng, De Wen Soh, Lidong Bing.\
-NAACL 2024 [\[paper\]](https://arxiv.org/abs/2310.10962)
+NAACL 2024 [\[paper\]](https://aclanthology.org/2024.naacl-long.436/)
 
 - **<ins>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</ins>**\
 Zhaodonghui Li\*, **Huiming Wang\***, Haitao Yuan, Gao Cong, Lidong Bing.\
