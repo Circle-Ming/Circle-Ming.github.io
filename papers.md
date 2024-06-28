@@ -29,7 +29,7 @@ NAACL 2024 [\[paper\]](https://arxiv.org/abs/2310.10962)
 
 - **<ins>LLM-R2: A Large Language Model Enhanced Rule-based Rewrite System for Boosting Query Efficiency</ins>**\
 Zhaodonghui Li, **Huiming Wang**, Haitao Yuan, Lidong Bing, Gao Cong.\
-VLDB [\[paper\]](assets/img/2024VLDB_LLM-R2.pdf)
+VLDB 2024 [\[paper\]](assets/img/2024VLDB_LLM-R2.pdf)
 
 - **<ins>Multi-Level Contrastive Distillation for Semi-Supervised Relation Extraction</ins>**\
 **Huiming Wang\***, Guoshun Nan\*, Wei Lu.\
